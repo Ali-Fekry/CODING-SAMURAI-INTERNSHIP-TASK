@@ -84,7 +84,7 @@ Run the app using the following command: python calculator.py
 Type any city name to get its current weather.  
 
 ### 🧠 Example Output
-=== Weather App ===
+=== Weather App ===  
 Enter city name (or 'exit' to quit): Cairo
 🌤 Weather in Cairo, EG:
 Temperature: 27°C (Feels like 26°C)
