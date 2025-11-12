@@ -58,16 +58,16 @@ A Python Weather App that uses the OpenWeatherMap API to fetch real-time weather
 It provides live temperature, humidity, wind speed, and general weather conditions.
 
 ### ⚙️ Features
-Real-time weather information fetched via a live API  
-Displays:  
-City and Country  
-Temperature (°C)  
-Feels-like temperature  
-Weather Condition (e.g., clear sky, cloudy, rain)  
-Humidity (%)  
-Wind Speed (m/s)  
-Handles invalid city names and API errors gracefully  
-Uses clean JSON data parsing with the requests library  
+- Real-time weather information fetched via a live API  
+- Displays:  
+- City and Country  
+- Temperature (°C)  
+- Feels-like temperature  
+- Weather Condition (e.g., clear sky, cloudy, rain)  
+- Humidity (%)  
+- Wind Speed (m/s)  
+- Handles invalid city names and API errors gracefully  
+- Uses clean JSON data parsing with the requests library  
 
 ### 🔑 Requirements
 Python: version 3.7 or above  
