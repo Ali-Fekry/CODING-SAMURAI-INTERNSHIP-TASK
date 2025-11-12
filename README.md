@@ -37,7 +37,7 @@ It’s a console-based program designed to take user input, process calculations
 3. Run the following command:
    ```bash
    python calculator.py
-
+   
 ### 🧠 Example Output
 Select operation:
 1. Add
@@ -58,30 +58,30 @@ A Python Weather App that uses the OpenWeatherMap API to fetch real-time weather
 It provides live temperature, humidity, wind speed, and general weather conditions.
 
 ### ⚙️ Features
-Real-time weather information fetched via a live API
-Displays:
-City and Country
-Temperature (°C)
-Feels-like temperature
-Weather Condition (e.g., clear sky, cloudy, rain)
-Humidity (%)
-Wind Speed (m/s)
-Handles invalid city names and API errors gracefully
-Uses clean JSON data parsing with the requests library
+Real-time weather information fetched via a live API  
+Displays:  
+City and Country  
+Temperature (°C)  
+Feels-like temperature  
+Weather Condition (e.g., clear sky, cloudy, rain)  
+Humidity (%)  
+Wind Speed (m/s)  
+Handles invalid city names and API errors gracefully  
+Uses clean JSON data parsing with the requests library  
 
 ### 🔑 Requirements
-Python: version 3.7 or above
-Library: requests
-API Key: Free from OpenWeatherMap
-To install the required dependency:
-pip install requests
+Python: version 3.7 or above  
+Library: requests  
+API Key: Free from OpenWeatherMap  
+To install the required dependency:  
+pip install requests  
 
-### 💻 How to Run
-Get your free API key from OpenWeatherMap
-Open the file weather_app.py
-Replace: api_key = "YOUR_API_KEY_HERE" with your actual API key.
-Run the app: python weather_app.py
-Type any city name to get its current weather.
+### 💻 How to Run 
+Get your free API key from OpenWeatherMap  
+Open the file weather_app.py  
+Replace: api_key = "YOUR_API_KEY_HERE" with your actual API key.  
+Run the app using the following command: python calculator.py  
+Type any city name to get its current weather.  
 
 ### 🧠 Example Output
 === Weather App ===
@@ -109,7 +109,7 @@ Wind Speed: 3.6 m/s
 Internship Title: Python Development Internship
 Organization: Coding Samurai
 Intern Role: Python Developer Intern
-Duration: [Add your internship month & year here]
+Duration: [11/2025]
 
 ## 🏆 Internship Outcomes
 During this internship, I:
