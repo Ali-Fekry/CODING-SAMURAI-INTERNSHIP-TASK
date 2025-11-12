@@ -121,9 +121,9 @@ Built two working mini-projects demonstrating real-world Python applications
 ---
 
 ## 📫 Contact
-Author: Ali Fekry
-Email: [aly.fekry10@gmail.com](#aly.fekry10@gmail.com)
-GitHub: [Ali Fekry](#https://github.com/Ali-Fekry)
-LinkedIn: [Ali Fekry](#https://www.linkedin.com/in/ali-fekry/)
+Author: Ali Fekry  
+Email: [aly.fekry10@gmail.com](#aly.fekry10@gmail.com)  
+GitHub: [Ali Fekry](#https://github.com/Ali-Fekry)  
+LinkedIn: [Ali Fekry](#https://www.linkedin.com/in/ali-fekry/)  
 
 ---
