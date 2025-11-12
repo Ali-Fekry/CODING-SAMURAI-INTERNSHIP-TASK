@@ -123,7 +123,7 @@ Built two working mini-projects demonstrating real-world Python applications
 ## 📫 Contact
 Author: Ali Fekry  
 Email: [aly.fekry10@gmail.com](#aly.fekry10@gmail.com)  
-GitHub: https://github.com/Ali-Fekry 
-LinkedIn: https://www.linkedin.com/in/ali-fekry/ 
+GitHub: https://github.com/Ali-Fekry  
+LinkedIn: https://www.linkedin.com/in/ali-fekry/  
 
 ---
