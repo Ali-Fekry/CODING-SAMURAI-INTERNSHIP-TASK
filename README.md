@@ -38,16 +38,16 @@ It’s a console-based program designed to take user input, process calculations
    ```bash
    python calculator.py
    
-### 🧠 Example Output
-Select operation:
-1. Add
-2. Subtract
-3. Multiply
-4. Divide
-Enter choice (1/2/3/4): 3
-Enter first number: 6
-Enter second number: 7
-The result is: 42.0
+### 🧠 Example Output  
+Select operation:  
+1. Add  
+2. Subtract  
+3. Multiply  
+4. Divide  
+Enter choice (1/2/3/4): 3  
+Enter first number: 6  
+Enter second number: 7  
+The result is: 42.0  
 
 ---
 
