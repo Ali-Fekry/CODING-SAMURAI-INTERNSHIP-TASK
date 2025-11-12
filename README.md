@@ -85,12 +85,12 @@ Type any city name to get its current weather.
 
 ### 🧠 Example Output
 === Weather App ===  
-Enter city name (or 'exit' to quit): Cairo
-🌤 Weather in Cairo, EG:
-Temperature: 27°C (Feels like 26°C)
-Condition: Clear sky
-Humidity: 41%
-Wind Speed: 3.6 m/s
+Enter city name (or 'exit' to quit): Cairo  
+🌤 Weather in Cairo, EG:  
+Temperature: 27°C (Feels like 26°C)  
+Condition: Clear sky  
+Humidity: 41%  
+Wind Speed: 3.6 m/s  
 
 ---
 
@@ -106,13 +106,13 @@ Wind Speed: 3.6 m/s
 ---
 
 ## 👨‍💻 Internship Information
-Internship Title: Python Development Internship
-Organization: Coding Samurai
-Intern Role: Python Developer Intern
-Duration: [11/2025]
+Internship Title: Python Development Internship  
+Organization: Coding Samurai  
+Intern Role: Python Developer Intern  
+Duration: [11/2025]  
 
 ## 🏆 Internship Outcomes
-During this internship, I:
+During this internship, I:  
 Strengthened my understanding of Python programming fundamentals
 Gained practical experience with API integration
 Developed logical and problem-solving skills
