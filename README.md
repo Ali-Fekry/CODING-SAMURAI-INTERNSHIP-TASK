@@ -1,6 +1,6 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
 
-# 🧠 Coding Samurai Internship — Python Development Projects
+# 🧠 Python Development Projects
 
 This repository contains the two Python-based projects I developed during my **Coding Samurai Internship Program**, demonstrating my understanding of **Python fundamentals**, **API integration**, and **practical application development**.
 
